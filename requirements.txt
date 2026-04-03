@@ -1,5 +1,5 @@
 ipykernel
 dotenv
 openai
-langchain
+langchain_openai
 streamlit
